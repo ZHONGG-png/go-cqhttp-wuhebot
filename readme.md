@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ![img](https://user-images.githubusercontent.com/116884310/218801370-f620afd2-5233-41b1-8da5-465946b66b27.png)
+# ![image](https://user-images.githubusercontent.com/116884310/218802645-d96655ab-ea9f-46c2-9729-084381610f23.png)
 # Wuhebot
 
 
