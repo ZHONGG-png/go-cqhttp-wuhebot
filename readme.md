@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 
+# ![img](https://user-images.githubusercontent.com/116884310/218801370-f620afd2-5233-41b1-8da5-465946b66b27.png)
 # Wuhebot
 
 
@@ -74,11 +74,12 @@
 
 ## 示例
 
-![img_1.png](img_1.png)
+![img_1](https://user-images.githubusercontent.com/116884310/218801481-ba70317a-6496-4f16-8480-7bc9bcdcac31.png)
 
-![img_2.png](img_2.png)
+![img_2](https://user-images.githubusercontent.com/116884310/218801815-887e8fde-f0b1-476e-ad8a-7cb42d929464.png)
 
-![img_3.png](img_3.png)
+![img_3](https://user-images.githubusercontent.com/116884310/218801895-32786c16-8672-41d6-813c-6272d368d5bf.png)
+
 
 
 ## Q&A
